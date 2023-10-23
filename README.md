@@ -1,1 +1,2 @@
 # Midterm_OOP_Activity
+TEAM MATE: JONARD MILLARE
